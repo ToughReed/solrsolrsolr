@@ -6,5 +6,6 @@ public class TestGit {
 		int a=0;
 		System.out.println("git");
 		int b=0;
+		System.out.println("git");
 	}
 }
